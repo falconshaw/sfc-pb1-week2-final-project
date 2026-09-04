@@ -1,0 +1,469 @@
+Cadet_ID,Detachment,Det State,School,LastName,FirstName,MI,email,phone
+3240190,237,Pennsylvania,University of Utah,SMITH,JAMES,A,james.smith_3429@example.com,586-211-6762
+0748363,109,Nebraska,Brown University,BROWN,PATRICIA,D,patricia.brown_5012@example.com,451-750-3449
+4397904,783,Wyoming,University of Alabama,DAVIS,LINDA,H,linda.davis_5358@example.com,672-712-8114
+6307238,114,Michigan,University of Kentucky,HERNANDEZ,WILLIAM,K,william.hernandez_1850@example.com,592-381-6015
+4544520,004,Louisiana,University of Vermont,WILSON,SUSAN,N,susan.wilson_4934@example.com,974-816-7454
+6301370,652,West Virginia,University of Colorado Boulder,MOORE,SARAH,R,sarah.moore_4100@example.com,574-556-8907
+2557000,412,Illinois,Boise State University,LEE,CHRISTOPHER,U,christopher.lee_8738@example.com,953-475-7642
+8664431,023,Virginia,University of New Mexico,WHITE,LISA,X,lisa.white_2573@example.com,956-484-1074
+7567370,103,Nebraska,Georgia Institute of Technology,RAMIREZ,MARGARET,B,margaret.ramirez_6649@example.com,935-696-9278
+9886665,819,Texas,Clemson University,WALKER,DONALD,E,donald.walker_1446@example.com,689-822-8048
+8489066,604,Nevada,University of Georgia,KING,KIMBERLY,H,kimberly.king_6130@example.com,371-249-6262
+2263960,132,Delaware,University of Idaho,NGUYEN,EMILY,L,emily.nguyen_1648@example.com,988-801-9353
+6140899,119,Kansas,University of Wyoming,GREEN,JOSHUA,O,joshua.green_1985@example.com,101-830-2544
+0864346,334,Iowa,Louisiana State University,BAKER,AMANDA,R,amanda.baker_8661@example.com,362-941-4734
+5995272,518,Oklahoma,University of Idaho,MITCHELL,DEBORAH,V,deborah.mitchell_7936@example.com,678-247-1038
+9582460,111,New York,Dartmouth College,GOMEZ,RONALD,Y,ronald.gomez_8747@example.com,135-116-6004
+6035273,201,Utah,Vanderbilt University,DIAZ,SHARON,B,sharon.diaz_2073@example.com,277-338-1807
+2975917,510,Arizona,Michigan State University,OWENS,CYNTHIA,F,cynthia.owens_3841@example.com,593-783-6599
+1904554,304,Washington,Johns Hopkins University,ELLIS,JACOB,I,jacob.ellis_1565@example.com,164-414-7077
+8253241,119,New Hampshire,University of Maryland,MCDONALD,SHIRLEY,L,shirley.mcdonald_3260@example.com,430-796-1569
+0696687,712,Kentucky,University of New Mexico,MURRAY,HELEN,P,helen.murray_9224@example.com,225-539-8880
+2836300,510,Nebraska,University of Idaho,WEBB,STEPHEN,S,stephen.webb_7368@example.com,758-656-7237
+2052935,304,Texas,University of Kansas,TUCKER,PAMELA,V,pamela.tucker_5119@example.com,921-821-8511
+7614824,890,Maine,Pennsylvania State University,CRAWFORD,SAMANTHA,Z,samantha.crawford_1914@example.com,415-134-1032
+8936606,712,Michigan,University of Missouri,BURNS,GREGORY,C,gregory.burns_7105@example.com,697-978-3202
+5561375,510,Utah,Vanderbilt University,PALMER,RUTH,F,ruth.palmer_8951@example.com,269-661-9782
+2739911,927,Connecticut,Duke University,STEWART,DEBRA,J,debra.stewart_1495@example.com,198-682-3806
+2004999,890,Connecticut,Vanderbilt University,JOHNSON,JACK,M,jack.johnson_8795@example.com,599-215-4611
+6600880,712,Iowa,Iowa State University,JONES,JANET,P,janet.jones_5800@example.com,977-185-7753
+5114237,114,Utah,Boise State University,RODRIGUEZ,HEATHER,T,heather.rodriguez_5135@example.com,611-274-5375
+3849032,927,North Dakota,University of Hawaii,LOPEZ,JAMES,W,james.lopez_7039@example.com,630-763-1419
+1459876,890,New Mexico,Georgia Institute of Technology,ANDERSON,PATRICIA,Z,patricia.anderson_7029@example.com,742-709-5019
+7308702,389,Arkansas,University of Oregon,JACKSON,LINDA,D,linda.jackson_3549@example.com,503-163-6810
+2043324,114,Ohio,Arizona State University,PEREZ,WILLIAM,G,william.perez_5615@example.com,745-632-3534
+5605276,927,New Hampshire,"University of Nevada, Las Vegas",HARRIS,SUSAN,J,susan.harris_5333@example.com,541-657-7176
+2055036,512,Delaware,West Virginia University,LEWIS,SARAH,N,sarah.lewis_8044@example.com,277-870-3812
+0326618,389,Alabama,University of Minnesota,YOUNG,CHRISTOPHER,Q,christopher.young_2185@example.com,701-731-1036
+6999167,114,Michigan,University of Delaware,WRIGHT,LISA,T,lisa.wright_4310@example.com,803-997-6745
+6207088,412,North Dakota,Cornell University,HILL,MARGARET,X,margaret.hill_8153@example.com,196-275-8599
+5523718,512,Virginia,University of Michigan,ADAMS,DONALD,A,donald.adams_8226@example.com,984-634-4677
+5626808,389,Vermont,University of Illinois,HALL,KIMBERLY,D,kimberly.hall_6278@example.com,987-828-9738
+4488342,815,Hawaii,Iowa State University,CARTER,EMILY,H,emily.carter_7902@example.com,237-662-6979
+7429628,412,Massachusetts,Pennsylvania State University,PHILLIPS,JOSHUA,K,joshua.phillips_2222@example.com,604-909-3513
+2466107,512,Hawaii,North Dakota State University,HOWARD,AMANDA,N,amanda.howard_3639@example.com,255-319-5502
+8167248,921,Utah,University of New Mexico,REYNOLDS,DEBORAH,R,deborah.reynolds_6377@example.com,171-604-7996
+5666108,815,Nevada,Montana State University,HARRISON,RONALD,U,ronald.harrison_2189@example.com,806-273-3942
+2610286,412,Idaho,University of Kentucky,CRUZ,SHARON,X,sharon.cruz_6370@example.com,712-351-6470
+1512184,203,Arizona,University of Wyoming,FREEMAN,CYNTHIA,B,cynthia.freeman_9298@example.com,784-564-6137
+6925165,921,Rhode Island,Oregon State University,SIMPSON,JACOB,E,jacob.simpson_4595@example.com,696-102-7980
+2396795,815,Wyoming,Stanford University,PORTER,SHIRLEY,H,shirley.porter_1442@example.com,175-415-6044
+8204598,119,Colorado,University of Florida,BOYD,HELEN,L,helen.boyd_6115@example.com,820-449-3048
+6321015,203,Missouri,University of Arkansas,GARDNER,STEPHEN,O,stephen.gardner_5185@example.com,757-170-5587
+0783741,921,South Dakota,University of Kansas,STONE,PAMELA,R,pamela.stone_3076@example.com,678-687-4930
+3742320,304,Idaho,University of Georgia,MORRISON,SAMANTHA,V,samantha.morrison_5550@example.com,401-743-2422
+3778856,119,West Virginia,University of New Mexico,WILLIAMS,GREGORY,Y,gregory.williams_4432@example.com,458-357-1145
+7031909,203,Delaware,Michigan State University,GARCIA,RUTH,B,ruth.garcia_4175@example.com,945-365-5585
+8031166,510,Delaware,Colorado State University,MARTINEZ,DEBRA,F,debra.martinez_7087@example.com,489-614-1308
+0488454,304,Rhode Island,Florida State University,GONZALEZ,JACK,I,jack.gonzalez_1944@example.com,513-982-8925
+9184178,119,Delaware,University of Colorado Boulder,THOMAS,JANET,L,janet.thomas_8967@example.com,467-923-8677
+3646315,712,North Carolina,Georgia Institute of Technology,MARTIN,HEATHER,P,heather.martin_6990@example.com,595-921-7319
+5596873,510,New York,Clemson University,THOMPSON,JAMES,S,james.thompson_1472@example.com,605-900-6052
+1107853,304,Pennsylvania,"University of California, Berkeley",SANCHEZ,PATRICIA,V,patricia.sanchez_8609@example.com,818-627-4130
+2991606,890,Texas,Boise State University,ROBINSON,LINDA,Z,linda.robinson_8322@example.com,443-748-8076
+1206409,712,Vermont,New York University,ALLEN,WILLIAM,C,william.allen_5779@example.com,421-368-8574
+2009706,510,Illinois,University of Nebraska-Lincoln,SCOTT,SUSAN,F,susan.scott_4171@example.com,165-633-2622
+2980290,927,Wyoming,Yale University,FLORES,SARAH,J,sarah.flores_5042@example.com,901-352-4658
+9525193,890,Oregon,West Virginia University,NELSON,CHRISTOPHER,M,christopher.nelson_1215@example.com,283-185-8226
+4970959,712,Nevada,University of Kansas,RIVERA,LISA,P,lisa.rivera_5732@example.com,516-124-7546
+9292752,114,Oregon,University of Alaska,ROBERTS,MARGARET,T,margaret.roberts_5246@example.com,342-836-4412
+0196361,927,Oregon,Dartmouth College,EVANS,DONALD,W,donald.evans_4351@example.com,700-839-7629
+5016506,890,Georgia,Kansas State University,WEST,KIMBERLY,Z,kimberly.west_1377@example.com,177-726-6796
+8368186,389,Florida,Rutgers University,FISHER,EMILY,D,emily.fisher_8512@example.com,285-440-1173
+4725485,114,Nevada,University of Michigan,GIBSON,JOSHUA,G,joshua.gibson_1871@example.com,847-126-3874
+4775515,927,Idaho,Ohio State University,MARSHALL,AMANDA,J,amanda.marshall_4713@example.com,986-581-6834
+0829097,512,Tennessee,Michigan State University,WELLS,DEBORAH,N,deborah.wells_3741@example.com,374-617-9563
+1888597,389,Oklahoma,New York University,STEVENS,RONALD,Q,ronald.stevens_9228@example.com,438-220-9531
+3470507,114,New Hampshire,University of Wyoming,HUNTER,SHARON,T,sharon.hunter_7512@example.com,654-749-5681
+6307991,412,Maryland,University of Wyoming,MASON,CYNTHIA,X,cynthia.mason_1699@example.com,544-311-9493
+2879409,512,Indiana,University of Vermont,PAYNE,JACOB,A,jacob.payne_2850@example.com,841-533-8093
+0213337,389,Georgia,University of Hawaii,NICHOLS,SHIRLEY,D,shirley.nichols_3397@example.com,706-930-2730
+9453286,815,Rhode Island,Vanderbilt University,SMITH,HELEN,H,helen.smith_1166@example.com,510-208-3651
+7613503,412,Pennsylvania,Rutgers University,BROWN,STEPHEN,K,stephen.brown_5273@example.com,461-400-5912
+4865640,512,Wisconsin,Harvard University,MILLER,PAMELA,N,pamela.miller_7040@example.com,249-780-3830
+2055521,921,Oregon,Massachusetts Institute of Technology,HERNANDEZ,SAMANTHA,R,samantha.hernandez_6427@example.com,639-617-4166
+6411665,815,North Dakota,University of Southern California,WILSON,GREGORY,U,gregory.wilson_7822@example.com,310-646-7864
+6238350,412,Connecticut,University of Idaho,TAYLOR,RUTH,X,ruth.taylor_6379@example.com,638-333-4439
+0169156,203,Iowa,"University of California, Berkeley",LEE,DEBRA,B,debra.lee_5061@example.com,239-784-5292
+9820812,921,Utah,University of Oregon,WHITE,JACK,E,jack.white_1375@example.com,421-952-3642
+6286041,815,Tennessee,University of Georgia,CLARK,JANET,H,janet.clark_3682@example.com,521-337-5458
+8955885,119,Alaska,Massachusetts Institute of Technology,WALKER,HEATHER,L,heather.walker_4912@example.com,925-381-9384
+2182224,203,Louisiana,Boise State University,KING,JAMES,O,james.king_3206@example.com,709-607-1857
+9823068,921,Tennessee,University of Kansas,TORRES,PATRICIA,R,patricia.torres_6542@example.com,859-528-4716
+0771956,304,Delaware,Purdue University,GREEN,LINDA,V,linda.green_3321@example.com,997-586-5194
+0990595,119,Idaho,Dartmouth College,BAKER,WILLIAM,Y,william.baker_9375@example.com,213-549-8130
+3649927,203,Mississippi,University of Wyoming,CAMPBELL,SUSAN,B,susan.campbell_3564@example.com,961-566-9148
+4724626,510,New York,Tulane University,GOMEZ,SARAH,F,sarah.gomez_1707@example.com,658-496-9063
+7570140,304,New Jersey,Auburn University,DIAZ,CHRISTOPHER,I,christopher.diaz_2524@example.com,805-560-2660
+6622889,119,Arizona,Massachusetts Institute of Technology,JORDAN,LISA,L,lisa.jordan_7279@example.com,653-495-8021
+0924714,712,Virginia,Virginia Tech,ELLIS,MARGARET,P,margaret.ellis_4258@example.com,944-855-8947
+8124573,510,Wyoming,University of Minnesota,MCDONALD,DONALD,S,donald.mcdonald_1220@example.com,969-401-8705
+7783391,304,North Dakota,University of Pennsylvania,ORTIZ,KIMBERLY,V,kimberly.ortiz_8965@example.com,125-388-4245
+4605930,890,Delaware,University of Missouri,WEBB,EMILY,Z,emily.webb_7326@example.com,185-667-5391
+8957495,712,Arizona,North Dakota State University,TUCKER,JOSHUA,C,joshua.tucker_5089@example.com,755-657-3974
+3856181,510,Ohio,University of Hawaii,HICKS,AMANDA,F,amanda.hicks_1191@example.com,209-177-2686
+7592378,927,West Virginia,University of Minnesota,BURNS,DEBORAH,J,deborah.burns_2854@example.com,365-510-9588
+0048216,890,California,Yale University,PALMER,RONALD,M,ronald.palmer_5934@example.com,300-411-6395
+8605760,712,Minnesota,University of Nebraska-Lincoln,WARREN,SHARON,P,sharon.warren_2971@example.com,505-497-4397
+3073807,114,Wyoming,University of South Carolina,JOHNSON,CYNTHIA,T,cynthia.johnson_9786@example.com,431-270-7477
+0883623,927,Wyoming,University of Washington,JONES,JACOB,W,jacob.jones_5259@example.com,416-641-2251
+8664264,890,Idaho,University of Oregon,DAVIS,SHIRLEY,Z,shirley.davis_3602@example.com,825-799-1676
+6970681,389,Oregon,Georgia Institute of Technology,LOPEZ,HELEN,D,helen.lopez_3779@example.com,266-243-7346
+0544034,114,Mississippi,University of Virginia,ANDERSON,STEPHEN,G,stephen.anderson_6026@example.com,486-129-6605
+5886576,927,Indiana,University of Illinois,MOORE,PAMELA,J,pamela.moore_4116@example.com,258-142-2564
+4783577,512,Nevada,South Dakota State University,PEREZ,SAMANTHA,N,samantha.perez_6966@example.com,730-393-2118
+1817499,389,Tennessee,Vanderbilt University,HARRIS,GREGORY,Q,gregory.harris_2694@example.com,261-253-5265
+5060797,114,Vermont,University of Mississippi,RAMIREZ,RUTH,T,ruth.ramirez_9281@example.com,744-809-2567
+9009494,412,Maine,University of Illinois,YOUNG,DEBRA,X,debra.young_6090@example.com,287-219-6915
+3139145,512,Missouri,University of South Carolina,WRIGHT,JACK,A,jack.wright_9777@example.com,406-722-8302
+2586730,389,Minnesota,University of Utah,NGUYEN,JANET,D,janet.nguyen_5271@example.com,822-464-2962
+0717997,815,Louisiana,University of Colorado Boulder,ADAMS,HEATHER,H,heather.adams_7719@example.com,747-289-8167
+3001149,412,Maryland,Indiana University,HALL,JAMES,K,james.hall_8704@example.com,424-984-4437
+4606397,512,Texas,Purdue University,MITCHELL,PATRICIA,N,patricia.mitchell_2913@example.com,301-723-1236
+4957730,921,Delaware,University of Georgia,PHILLIPS,LINDA,R,linda.phillips_3735@example.com,250-456-9865
+4990634,815,Mississippi,University of Florida,HOWARD,WILLIAM,U,william.howard_2312@example.com,897-953-9127
+1806671,412,Kentucky,Columbia University,OWENS,SUSAN,X,susan.owens_1994@example.com,568-101-5656
+1354232,203,Michigan,University of Wyoming,HARRISON,SARAH,B,sarah.harrison_2450@example.com,476-257-9139
+8131844,921,West Virginia,Stanford University,CRUZ,CHRISTOPHER,E,christopher.cruz_4068@example.com,879-161-3747
+1017738,815,Tennessee,University of Michigan,MURRAY,LISA,H,lisa.murray_5690@example.com,458-869-9867
+2995040,119,Missouri,Colorado State University,SIMPSON,MARGARET,L,margaret.simpson_2587@example.com,254-919-3651
+0098558,203,Arizona,Brown University,PORTER,DONALD,O,donald.porter_8532@example.com,813-978-8429
+9420412,921,Mississippi,Columbia University,CRAWFORD,KIMBERLY,R,kimberly.crawford_6553@example.com,879-176-6874
+1176714,304,Washington,University of Idaho,GARDNER,EMILY,V,emily.gardner_8244@example.com,828-963-6340
+5842087,119,Pennsylvania,Tulane University,STONE,JOSHUA,Y,joshua.stone_1836@example.com,897-307-6786
+1168822,203,Maine,University of North Carolina at Chapel Hill,STEWART,AMANDA,B,amanda.stewart_9604@example.com,429-329-7676
+5891682,510,Wyoming,Indiana University,WILLIAMS,DEBORAH,F,deborah.williams_5888@example.com,652-649-6715
+9339745,304,Mississippi,Virginia Tech,GARCIA,RONALD,I,ronald.garcia_2830@example.com,810-362-9257
+6842403,119,North Dakota,Kansas State University,RODRIGUEZ,SHARON,L,sharon.rodriguez_5898@example.com,210-424-7423
+5580578,712,Oklahoma,South Dakota State University,GONZALEZ,CYNTHIA,P,cynthia.gonzalez_9368@example.com,330-270-7723
+0609863,510,New York,University of Tennessee,THOMAS,JACOB,S,jacob.thomas_4483@example.com,246-480-3857
+1813535,304,California,Princeton University,JACKSON,SHIRLEY,V,shirley.jackson_5542@example.com,658-689-1907
+2409772,890,California,Clemson University,THOMPSON,HELEN,Z,helen.thompson_5946@example.com,376-295-4032
+6594608,712,Louisiana,West Virginia University,SANCHEZ,STEPHEN,C,stephen.sanchez_3027@example.com,587-492-4547
+3237268,510,Maine,Kansas State University,LEWIS,PAMELA,F,pamela.lewis_5620@example.com,845-485-6220
+0271787,927,Massachusetts,University of Florida,ALLEN,SAMANTHA,J,samantha.allen_1939@example.com,327-888-3628
+2433142,890,Massachusetts,Colorado State University,SCOTT,GREGORY,M,gregory.scott_8828@example.com,441-807-2785
+7466562,712,New Mexico,University of Florida,HILL,RUTH,P,ruth.hill_2067@example.com,910-994-3114
+3206062,114,Florida,Montana State University,NELSON,DEBRA,T,debra.nelson_6132@example.com,650-222-9523
+9096759,927,South Carolina,University of New Mexico,RIVERA,JACK,W,jack.rivera_5448@example.com,346-546-2074
+3738288,890,Texas,Mississippi State University,CARTER,JANET,Z,janet.carter_1214@example.com,697-256-7955
+8090226,389,Maine,New York University,EVANS,HEATHER,D,heather.evans_4932@example.com,976-225-9547
+0283650,114,Colorado,Indiana University,WEST,JAMES,G,james.west_8711@example.com,704-722-7582
+6460495,927,South Dakota,Montana State University,REYNOLDS,PATRICIA,J,patricia.reynolds_1516@example.com,186-919-8530
+0508779,512,Ohio,University of Nebraska-Lincoln,GIBSON,LINDA,N,linda.gibson_9802@example.com,418-839-6106
+9262618,389,Washington,Florida State University,MARSHALL,WILLIAM,Q,william.marshall_5637@example.com,438-411-2030
+6375695,114,West Virginia,South Dakota State University,FREEMAN,SUSAN,T,susan.freeman_4948@example.com,281-960-1423
+5145435,412,Connecticut,Vanderbilt University,STEVENS,SARAH,X,sarah.stevens_5173@example.com,181-468-1643
+9173980,512,Pennsylvania,University of Illinois,HUNTER,CHRISTOPHER,A,christopher.hunter_3563@example.com,716-540-4620
+8189982,389,Ohio,University of Southern California,BOYD,LISA,D,lisa.boyd_2126@example.com,377-794-6127
+7198230,815,Kentucky,University of Wyoming,PAYNE,MARGARET,H,margaret.payne_1877@example.com,595-410-8292
+2583335,412,Wisconsin,West Virginia University,NICHOLS,DONALD,K,donald.nichols_1122@example.com,630-148-2462
+7689625,512,Louisiana,Montana State University,MORRISON,KIMBERLY,N,kimberly.morrison_2418@example.com,760-283-7330
+1411769,921,Colorado,Oregon State University,BROWN,EMILY,R,emily.brown_4889@example.com,153-680-4106
+4528959,815,Oklahoma,Texas A&M University,MILLER,JOSHUA,U,joshua.miller_6561@example.com,555-452-7172
+7252967,412,Arizona,Montana State University,MARTINEZ,AMANDA,X,amanda.martinez_8762@example.com,189-157-5644
+2651761,203,South Carolina,University of Oregon,WILSON,DEBORAH,B,deborah.wilson_9109@example.com,353-511-2913
+1973966,921,New York,Ohio State University,TAYLOR,RONALD,E,ronald.taylor_4854@example.com,226-579-5500
+9254179,815,Arkansas,Pennsylvania State University,MARTIN,SHARON,H,sharon.martin_9982@example.com,199-225-3132
+0481546,119,Louisiana,University of Texas at Austin,WHITE,CYNTHIA,L,cynthia.white_8114@example.com,828-591-1973
+3598085,203,Hawaii,University of Nebraska-Lincoln,CLARK,JACOB,O,jacob.clark_8572@example.com,798-157-6381
+0213494,921,New Jersey,Oklahoma State University,ROBINSON,SHIRLEY,R,shirley.robinson_5504@example.com,989-161-2947
+6013981,304,Delaware,University of New Mexico,KING,HELEN,V,helen.king_5435@example.com,213-122-9765
+5675825,119,Arkansas,University of Pennsylvania,TORRES,STEPHEN,Y,stephen.torres_5667@example.com,410-404-6084
+0647663,203,Hawaii,Texas A&M University,FLORES,PAMELA,B,pamela.flores_6094@example.com,562-644-9427
+6231727,510,North Carolina,University of Kansas,BAKER,SAMANTHA,F,samantha.baker_2121@example.com,634-229-2603
+0716117,304,Delaware,University of Texas at Austin,CAMPBELL,GREGORY,I,gregory.campbell_1060@example.com,154-653-9997
+0114425,119,Hawaii,University of Connecticut,ROBERTS,RUTH,L,ruth.roberts_8366@example.com,357-813-5937
+2399656,712,West Virginia,North Dakota State University,DIAZ,DEBRA,P,debra.diaz_7352@example.com,275-119-7941
+9576593,510,New Mexico,University of Arizona,JORDAN,JACK,S,jack.jordan_3495@example.com,862-341-2879
+7816633,304,Virginia,Pennsylvania State University,FISHER,JANET,V,janet.fisher_3510@example.com,639-968-3555
+2938560,890,Tennessee,University of Maryland,MCDONALD,HEATHER,Z,heather.mcdonald_8355@example.com,407-110-7209
+3908137,712,Tennessee,University of Washington,ORTIZ,JAMES,C,james.ortiz_4367@example.com,682-833-1119
+5633363,510,Idaho,University of Arizona,WELLS,PATRICIA,F,patricia.wells_2149@example.com,836-303-4163
+2421354,927,Utah,Michigan State University,TUCKER,LINDA,J,linda.tucker_2982@example.com,842-138-9818
+8731247,890,West Virginia,Tulane University,HICKS,WILLIAM,M,william.hicks_6094@example.com,410-256-4916
+6183244,712,Louisiana,Ohio State University,MASON,SUSAN,P,susan.mason_1418@example.com,962-977-1182
+6436776,114,Massachusetts,University of South Carolina,PALMER,SARAH,T,sarah.palmer_1728@example.com,666-222-2100
+5254939,927,South Dakota,University of Alabama,WARREN,CHRISTOPHER,W,christopher.warren_1643@example.com,328-189-8644
+0216027,890,New Hampshire,University of Maryland,SMITH,LISA,Z,lisa.smith_7596@example.com,858-180-9107
+4176615,389,Illinois,Michigan State University,JONES,MARGARET,D,margaret.jones_8531@example.com,260-717-4830
+2698315,114,Hawaii,Yale University,DAVIS,DONALD,G,donald.davis_9271@example.com,882-201-3372
+9976724,927,Michigan,Stanford University,HERNANDEZ,KIMBERLY,J,kimberly.hernandez_4197@example.com,673-960-9530
+7722738,512,Arkansas,University of Arizona,ANDERSON,EMILY,N,emily.anderson_8094@example.com,758-678-4773
+0249280,389,New York,Yale University,MOORE,JOSHUA,D,joshua.moore_3808@example.com,839-215-7885
+8612226,114,Mississippi,Tulane University,LEE,AMANDA,G,amanda.lee_4517@example.com,929-288-9305
+4857063,412,Georgia,University of Arkansas,HARRIS,DEBORAH,K,deborah.harris_8373@example.com,289-968-4190
+4671306,512,Kentucky,Tulane University,RAMIREZ,RONALD,N,ronald.ramirez_4814@example.com,325-965-2314
+7286420,389,Mississippi,University of Michigan,WALKER,SHARON,Q,sharon.walker_2701@example.com,519-849-2953
+9124181,815,Florida,University of Pennsylvania,WRIGHT,CYNTHIA,U,cynthia.wright_1268@example.com,803-477-7226
+2803511,412,Montana,University of Connecticut,NGUYEN,JACOB,X,jacob.nguyen_2936@example.com,402-695-3632
+2688131,512,Mississippi,University of New Mexico,GREEN,SHIRLEY,A,shirley.green_2600@example.com,502-383-2037
+6812668,921,Minnesota,Massachusetts Institute of Technology,HALL,HELEN,E,helen.hall_9933@example.com,597-765-8143
+7261140,815,Tennessee,"University of California, Berkeley",MITCHELL,STEPHEN,H,stephen.mitchell_2630@example.com,854-436-6813
+6774662,412,Nevada,South Dakota State University,GOMEZ,PAMELA,K,pamela.gomez_4934@example.com,943-878-9024
+1608735,203,West Virginia,University of Utah,HOWARD,SAMANTHA,O,samantha.howard_5951@example.com,322-594-1677
+2275388,921,Tennessee,University of Illinois,OWENS,GREGORY,R,gregory.owens_1611@example.com,496-629-9774
+5921023,815,Maine,University of Arizona,ELLIS,RUTH,U,ruth.ellis_4805@example.com,235-979-5650
+5498010,119,Kentucky,University of Arizona,CRUZ,DEBRA,Y,debra.cruz_3466@example.com,867-617-8626
+8680058,203,Alabama,University of Colorado Boulder,MURRAY,JACK,B,jack.murray_1796@example.com,861-191-3466
+9816914,921,Georgia,Columbia University,WEBB,JANET,E,janet.webb_9492@example.com,402-859-5819
+4045890,304,Delaware,Auburn University,PORTER,HEATHER,I,heather.porter_1002@example.com,444-341-7255
+2874316,119,South Dakota,University of Missouri,CRAWFORD,JAMES,L,james.crawford_5107@example.com,231-393-8389
+4710810,203,Georgia,University of Arizona,BURNS,PATRICIA,O,patricia.burns_2287@example.com,488-543-4675
+8548221,510,Iowa,University of Hawaii,STONE,LINDA,S,linda.stone_5803@example.com,884-281-8486
+6921918,304,Massachusetts,University of Delaware,STEWART,WILLIAM,V,william.stewart_5649@example.com,309-101-9657
+1698921,119,Tennessee,Oklahoma State University,JOHNSON,SUSAN,Y,susan.johnson_8149@example.com,267-722-6195
+1621845,712,Michigan,University of Florida,GARCIA,SARAH,C,sarah.garcia_5755@example.com,212-307-9682
+5859271,510,Louisiana,Kansas State University,RODRIGUEZ,CHRISTOPHER,F,christopher.rodriguez_3436@example.com,267-667-7412
+7277304,304,Indiana,University of South Carolina,LOPEZ,LISA,I,lisa.lopez_9814@example.com,314-640-3869
+3667556,890,Delaware,Yale University,THOMAS,MARGARET,M,margaret.thomas_8559@example.com,865-879-3475
+9359570,712,Tennessee,University of Florida,JACKSON,DONALD,P,donald.jackson_8964@example.com,250-203-9461
+2633211,510,Massachusetts,Virginia Tech,PEREZ,KIMBERLY,S,kimberly.perez_3020@example.com,349-734-3010
+7012065,927,North Dakota,University of Arkansas,SANCHEZ,EMILY,W,emily.sanchez_6697@example.com,711-138-6905
+1083457,890,Arizona,Princeton University,LEWIS,JOSHUA,Z,joshua.lewis_2276@example.com,416-206-2672
+6048556,712,Mississippi,University of South Carolina,YOUNG,AMANDA,C,amanda.young_6397@example.com,217-595-1614
+0478140,114,Alaska,Indiana University,SCOTT,DEBORAH,G,deborah.scott_1271@example.com,573-594-8994
+0098578,927,Massachusetts,University of Nebraska-Lincoln,HILL,RONALD,J,ronald.hill_4735@example.com,791-831-2623
+6635345,890,Tennessee,University of Georgia,ADAMS,SHARON,M,sharon.adams_5484@example.com,848-201-4858
+1734356,389,Georgia,Indiana University,RIVERA,CYNTHIA,Q,cynthia.rivera_8880@example.com,712-734-5949
+9558168,114,New Jersey,Dartmouth College,CARTER,JACOB,T,jacob.carter_3050@example.com,369-689-8402
+0979010,927,Minnesota,University of Maryland,PHILLIPS,SHIRLEY,W,shirley.phillips_5682@example.com,605-982-7890
+9871322,512,Maine,Massachusetts Institute of Technology,WEST,HELEN,A,helen.west_9590@example.com,405-835-2933
+0981248,389,Colorado,Clemson University,REYNOLDS,STEPHEN,D,stephen.reynolds_3801@example.com,314-574-8770
+6585945,114,Alaska,University of North Carolina at Chapel Hill,HARRISON,PAMELA,G,pamela.harrison_2820@example.com,543-699-7862
+1002613,412,Oregon,University of Maryland,MARSHALL,SAMANTHA,K,samantha.marshall_6428@example.com,650-755-4497
+3003963,512,Ohio,University of Alabama,FREEMAN,GREGORY,N,gregory.freeman_9227@example.com,109-639-6821
+3260362,389,Arkansas,University of Alaska,SIMPSON,RUTH,Q,ruth.simpson_7220@example.com,166-104-4542
+3252699,815,Nebraska,University of Arkansas,HUNTER,DEBRA,H,debra.hunter_1859@example.com,558-135-3197
+7214829,412,Texas,Mississippi State University,BOYD,JACK,K,jack.boyd_3470@example.com,289-970-9427
+8680621,512,Maryland,University of Kansas,GARDNER,JANET,N,janet.gardner_8070@example.com,756-662-3199
+4583409,921,Michigan,University of Texas at Austin,NICHOLS,HEATHER,R,heather.nichols_1659@example.com,830-942-7954
+7115920,815,Mississippi,Oregon State University,MORRISON,JAMES,U,james.morrison_2630@example.com,468-660-9107
+4678356,412,California,Massachusetts Institute of Technology,WILLIAMS,PATRICIA,X,patricia.williams_8758@example.com,684-436-2808
+1698725,203,Tennessee,University of Florida,MILLER,LINDA,B,linda.miller_2320@example.com,293-569-1873
+8580012,921,Oklahoma,University of Utah,MARTINEZ,WILLIAM,E,william.martinez_5137@example.com,725-964-7787
+7857175,815,South Carolina,University of Alabama,GONZALEZ,SUSAN,H,susan.gonzalez_8999@example.com,103-513-2147
+3503226,119,Connecticut,University of Alabama,TAYLOR,SARAH,L,sarah.taylor_7050@example.com,661-821-5854
+8505196,203,Oklahoma,University of Alabama,MARTIN,CHRISTOPHER,O,christopher.martin_7567@example.com,579-513-9751
+3291536,921,Washington,University of Utah,THOMPSON,LISA,R,lisa.thompson_7041@example.com,503-602-4062
+5816572,304,Minnesota,Johns Hopkins University,CLARK,MARGARET,V,margaret.clark_2770@example.com,904-599-7091
+6336624,119,Louisiana,Carnegie Mellon University,ROBINSON,DONALD,Y,donald.robinson_5223@example.com,386-751-3570
+2592016,203,Rhode Island,Arizona State University,ALLEN,KIMBERLY,B,kimberly.allen_9685@example.com,347-606-9517
+9421200,510,Nevada,University of Minnesota,TORRES,EMILY,F,emily.torres_8955@example.com,903-592-9213
+0288362,304,Missouri,University of Southern California,FLORES,JOSHUA,I,joshua.flores_8535@example.com,938-858-9601
+8518687,119,Delaware,Boise State University,NELSON,AMANDA,L,amanda.nelson_3849@example.com,237-919-9807
+9932570,712,New York,Montana State University,CAMPBELL,DEBORAH,P,deborah.campbell_4989@example.com,799-387-7661
+5837872,510,Missouri,University of Missouri,ROBERTS,RONALD,S,ronald.roberts_1019@example.com,964-686-4630
+7484979,304,Arkansas,University of Oklahoma,EVANS,SHARON,V,sharon.evans_5104@example.com,224-482-1763
+7996668,890,Connecticut,University of Colorado Boulder,JORDAN,CYNTHIA,Z,cynthia.jordan_1981@example.com,608-981-3843
+4711987,712,New Hampshire,University of Iowa,FISHER,JACOB,C,jacob.fisher_4231@example.com,830-775-1247
+0873353,510,Louisiana,University of Hawaii,GIBSON,SHIRLEY,F,shirley.gibson_6041@example.com,804-693-6915
+6248471,927,Wisconsin,Georgia Institute of Technology,ORTIZ,HELEN,J,helen.ortiz_6762@example.com,815-884-7965
+0531896,890,Texas,University of Kentucky,WELLS,STEPHEN,M,stephen.wells_3870@example.com,958-315-8111
+3305795,712,Arizona,University of Kansas,STEVENS,PAMELA,P,pamela.stevens_5551@example.com,506-933-5285
+4168285,114,Florida,North Dakota State University,HICKS,SAMANTHA,T,samantha.hicks_6759@example.com,155-438-5988
+1621286,927,Virginia,Duke University,MASON,GREGORY,W,gregory.mason_3174@example.com,347-427-6020
+8199432,890,Kansas,Arizona State University,PAYNE,RUTH,Z,ruth.payne_8396@example.com,563-873-5877
+5059346,389,Ohio,University of Washington,WARREN,DEBRA,D,debra.warren_8442@example.com,371-897-7421
+0978428,114,Washington,University of Arkansas,SMITH,JACK,G,jack.smith_3776@example.com,360-880-6758
+0754835,927,Missouri,University of Iowa,BROWN,JANET,J,janet.brown_9762@example.com,978-714-9721
+3197160,512,Wisconsin,Tulane University,DAVIS,HEATHER,N,heather.davis_5519@example.com,851-488-9860
+3916510,389,South Dakota,"University of Nevada, Las Vegas",HERNANDEZ,JAMES,Q,james.hernandez_6688@example.com,499-514-2318
+0716848,114,Florida,Dartmouth College,WILSON,PATRICIA,T,patricia.wilson_9445@example.com,731-957-6819
+4086636,412,Massachusetts,Johns Hopkins University,MOORE,LINDA,X,linda.moore_9117@example.com,106-505-8725
+6273382,512,New York,Montana State University,LEE,WILLIAM,A,william.lee_4705@example.com,972-916-9226
+5083734,389,Kentucky,University of Connecticut,WHITE,SUSAN,D,susan.white_7081@example.com,413-119-5343
+4473572,815,Arizona,University of Iowa,RAMIREZ,SARAH,H,sarah.ramirez_5408@example.com,199-493-1154
+2851650,412,Hawaii,West Virginia University,WALKER,CHRISTOPHER,K,christopher.walker_1187@example.com,737-500-1755
+7470401,512,Arizona,Michigan State University,KING,LISA,N,lisa.king_9665@example.com,260-456-2481
+5540359,921,New York,Vanderbilt University,NGUYEN,MARGARET,R,margaret.nguyen_8145@example.com,843-970-5234
+7308998,815,Oregon,University of Alaska,GREEN,DONALD,U,donald.green_8975@example.com,503-282-9254
+4235086,412,West Virginia,Yale University,BAKER,KIMBERLY,X,kimberly.baker_2674@example.com,229-437-5285
+8107644,203,New Hampshire,University of Georgia,MITCHELL,EMILY,B,emily.mitchell_3920@example.com,153-979-3420
+2287289,921,Tennessee,Colorado State University,GOMEZ,JOSHUA,E,joshua.gomez_9201@example.com,561-748-4747
+4576447,815,Alaska,Colorado State University,DIAZ,AMANDA,H,amanda.diaz_5084@example.com,586-194-2299
+9923224,119,Louisiana,Indiana University,OWENS,DEBORAH,L,deborah.owens_4322@example.com,328-277-7055
+7213691,203,Rhode Island,Arizona State University,ELLIS,RONALD,O,ronald.ellis_4018@example.com,275-665-3868
+1498423,921,Wisconsin,Carnegie Mellon University,MCDONALD,SHARON,R,sharon.mcdonald_3090@example.com,147-606-9587
+8705816,304,New York,Arizona State University,MURRAY,CYNTHIA,V,cynthia.murray_3238@example.com,473-457-2165
+2543610,119,South Dakota,Auburn University,WEBB,JACOB,Y,jacob.webb_3371@example.com,835-114-4179
+3444646,203,West Virginia,Carnegie Mellon University,TUCKER,SHIRLEY,B,shirley.tucker_8902@example.com,864-857-7716
+7684798,510,Louisiana,University of Missouri,CRAWFORD,HELEN,F,helen.crawford_7159@example.com,139-742-9959
+1130110,304,New Mexico,Yale University,BURNS,STEPHEN,I,stephen.burns_1056@example.com,231-961-7111
+3660223,119,New Hampshire,Brown University,PALMER,PAMELA,L,pamela.palmer_4043@example.com,492-768-4065
+1541689,712,Nevada,Oregon State University,STEWART,SAMANTHA,P,samantha.stewart_4370@example.com,446-534-2159
+8571778,510,West Virginia,University of Delaware,JOHNSON,GREGORY,S,gregory.johnson_4341@example.com,855-442-3824
+2994766,304,Minnesota,Texas A&M University,JONES,RUTH,V,ruth.jones_6880@example.com,317-103-2402
+8490926,890,Maine,Oregon State University,RODRIGUEZ,DEBRA,Z,debra.rodriguez_9042@example.com,514-764-1169
+3693672,712,Georgia,University of Connecticut,LOPEZ,JACK,C,jack.lopez_1691@example.com,678-738-9108
+9743138,510,California,University of Tennessee,ANDERSON,JANET,F,janet.anderson_8871@example.com,764-808-8636
+0247702,927,New Mexico,Yale University,JACKSON,HEATHER,J,heather.jackson_5850@example.com,641-598-8370
+0108620,890,Connecticut,University of Illinois,PEREZ,JAMES,M,james.perez_4799@example.com,782-709-8496
+6234038,712,California,Rutgers University,HARRIS,PATRICIA,P,patricia.harris_9429@example.com,836-204-4694
+8270803,114,Nevada,University of Wyoming,LEWIS,LINDA,T,linda.lewis_3036@example.com,939-882-4631
+3704557,927,Tennessee,"University of Nevada, Las Vegas",YOUNG,WILLIAM,W,william.young_8100@example.com,300-707-5711
+7309836,890,Nevada,University of Arkansas,WRIGHT,SUSAN,Z,susan.wright_3055@example.com,112-982-7548
+0437109,389,Wyoming,University of Connecticut,HILL,SARAH,D,sarah.hill_4014@example.com,116-381-6575
+7732082,114,Mississippi,University of Minnesota,ADAMS,CHRISTOPHER,G,christopher.adams_4922@example.com,299-637-8081
+2043804,927,New Mexico,University of Tennessee,HALL,LISA,J,lisa.hall_8600@example.com,952-967-5255
+6047896,512,Rhode Island,Georgia Institute of Technology,CARTER,MARGARET,N,margaret.carter_3374@example.com,707-841-6828
+6140343,389,Mississippi,Virginia Tech,PHILLIPS,DONALD,Q,donald.phillips_1896@example.com,712-119-6736
+4258750,114,Rhode Island,University of Georgia,HOWARD,KIMBERLY,T,kimberly.howard_7728@example.com,488-924-8283
+7517383,412,New Jersey,University of Virginia,REYNOLDS,EMILY,X,emily.reynolds_9997@example.com,943-346-9267
+5881779,512,West Virginia,Brown University,HARRISON,JOSHUA,A,joshua.harrison_6946@example.com,551-256-1544
+1049390,389,Colorado,University of Wyoming,CRUZ,AMANDA,D,amanda.cruz_9056@example.com,348-873-8551
+8802146,815,North Dakota,Cornell University,FREEMAN,DEBORAH,H,deborah.freeman_3760@example.com,298-904-8930
+9303159,412,Louisiana,University of Minnesota,SIMPSON,RONALD,K,ronald.simpson_2655@example.com,211-423-9725
+1456612,512,Kentucky,University of Washington,PORTER,SHARON,N,sharon.porter_4368@example.com,348-686-1872
+3775367,921,Indiana,University of New Mexico,BOYD,CYNTHIA,R,cynthia.boyd_8870@example.com,362-355-5921
+3608148,414,Louisiana,Brown University,GARCIA,KAREN,Q,karen.garcia_1272@example.com,650-149-6883
+6736335,164,Kansas,New York University,JONES,JENNIFER,F,jennifer.jones_8298@example.com,262-547-3445
+3742462,249,Arizona,University of Alaska,MARTINEZ,WILLIAM,C,william.martinez_3310@example.com,947-134-8659
+2698903,020,Montana,West Virginia University,BROWN,RICHARD,X,richard.brown_8098@example.com,849-988-2302
+6249526,507,Kentucky,Dartmouth College,BROWN,MARY,U,mary.brown_3201@example.com,411-934-4055
+9741253,364,Oregon,University of Vermont,JOHNSON,JAMES,M,james.johnson_9298@example.com,790-238-9518
+5016130,003,Pennsylvania,Virginia Tech,MARTIN,ELIZABETH,Z,elizabeth.martin_6439@example.com,259-473-7265
+1522556,118,Virginia,University of Georgia,MOORE,RICHARD,S,richard.moore_9129@example.com,185-604-1610
+7862108,886,Indiana,North Dakota State University,JONES,MICHAEL,G,michael.jones_1954@example.com,952-984-5156
+8325517,647,New Jersey,Princeton University,JONES,ROBERT,C,robert.jones_6653@example.com,910-163-3226
+0966330,488,Pennsylvania,University of Delaware,THOMAS,PATRICIA,W,patricia.thomas_4263@example.com,720-952-3228
+8890469,829,Washington,University of Kentucky,MOORE,DAVID,T,david.moore_1263@example.com,592-140-8228
+8368136,791,Rhode Island,North Dakota State University,GARCIA,THOMAS,C,thomas.garcia_6585@example.com,396-997-3288
+8142860,730,Rhode Island,"University of Nevada, Las Vegas",JACKSON,WILLIAM,I,william.jackson_8039@example.com,332-358-7840
+0835582,212,West Virginia,Virginia Tech,JONES,MICHAEL,M,michael.jones_3453@example.com,374-143-9142
+7722699,911,New Mexico,University of Idaho,RODRIGUEZ,ROBERT,G,robert.rodriguez_1999@example.com,190-241-2108
+8011158,020,Michigan,Pennsylvania State University,JONES,JESSICA,K,jessica.jones_3120@example.com,349-137-3193
+9370245,762,Montana,Kansas State University,SMITH,SARAH,A,sarah.smith_4067@example.com,667-842-3004
+9573235,913,Washington,University of Alaska,MILLER,MARY,F,mary.miller_1991@example.com,168-424-2234
+2793233,090,Missouri,Yale University,BROWN,CHARLES,W,charles.brown_8440@example.com,134-140-5541
+1485736,707,Kansas,University of Mississippi,ANDERSON,JOSEPH,X,joseph.anderson_9884@example.com,825-937-4133
+3472104,462,North Dakota,University of Delaware,ANDERSON,BARBARA,H,barbara.anderson_8075@example.com,582-692-5997
+5912484,243,Massachusetts,University of Kentucky,MILLER,JAMES,P,james.miller_4266@example.com,107-165-1747
+1840727,705,Tennessee,Princeton University,BROWN,WILLIAM,I,william.brown_7463@example.com,784-147-1668
+0793957,123,New Hampshire,University of Minnesota,LOPEZ,KAREN,U,karen.lopez_5334@example.com,873-542-9305
+7768991,547,Virginia,University of Oregon,JOHNSON,PATRICIA,I,patricia.johnson_6787@example.com,508-524-4660
+3015496,566,Mississippi,University of Kansas,THOMAS,LINDA,R,linda.thomas_5151@example.com,170-332-1041
+2460960,342,Wisconsin,University of Missouri,HERNANDEZ,RICHARD,E,richard.hernandez_7341@example.com,865-763-2324
+2043426,515,Maryland,University of Alabama,MOORE,JOHN,Y,john.moore_1506@example.com,458-194-7926
+7679332,342,Hawaii,Indiana University,JACKSON,ROBERT,H,robert.jackson_3031@example.com,548-466-9245
+9155495,368,Michigan,University of Oklahoma,THOMAS,JOHN,H,john.thomas_1741@example.com,234-384-3642
+4257982,389,Hawaii,Vanderbilt University,GONZALEZ,WILLIAM,X,william.gonzalez_7658@example.com,612-779-6795
+7094971,327,Arizona,Indiana University,MOORE,DAVID,A,david.moore_7917@example.com,190-416-2585
+4014658,583,Colorado,Johns Hopkins University,HERNANDEZ,SARAH,A,sarah.hernandez_8387@example.com,758-292-3910
+4426663,167,Montana,Michigan State University,MOORE,RICHARD,U,richard.moore_8884@example.com,781-910-2725
+7070880,416,Nevada,University of Hawaii,WILLIAMS,RICHARD,W,richard.williams_7898@example.com,585-945-9390
+7715096,403,Georgia,University of Mississippi,GARCIA,BARBARA,A,barbara.garcia_9219@example.com,372-230-7389
+2045013,755,Alaska,Harvard University,TAYLOR,MICHAEL,T,michael.taylor_3794@example.com,550-698-2026
+4474522,491,Louisiana,University of Arkansas,TAYLOR,JENNIFER,Q,jennifer.taylor_4669@example.com,674-580-6362
+9875607,415,Colorado,Auburn University,WILLIAMS,MARY,T,mary.williams_8841@example.com,423-856-3804
+7570849,585,Connecticut,Cornell University,MARTIN,ELIZABETH,H,elizabeth.martin_8562@example.com,799-496-3193
+7153219,680,Vermont,University of Pennsylvania,SMITH,KAREN,S,karen.smith_1359@example.com,176-973-5980
+9310538,644,Kansas,Louisiana State University,BROWN,LINDA,Z,linda.brown_4231@example.com,591-109-9583
+1129754,294,Ohio,University of Pennsylvania,WILLIAMS,MICHAEL,C,michael.williams_4197@example.com,560-968-3321
+4745113,569,New York,Oregon State University,GARCIA,SUSAN,C,susan.garcia_7756@example.com,630-456-7103
+3470500,716,Massachusetts,University of Idaho,JOHNSON,SARAH,J,sarah.johnson_3126@example.com,495-620-4122
+5165998,181,Kentucky,Brown University,WILLIAMS,JOSEPH,A,joseph.williams_5328@example.com,311-531-9697
+6479328,358,New Jersey,University of Kansas,LOPEZ,LINDA,Q,linda.lopez_4777@example.com,403-829-1657
+6236059,431,Arkansas,University of Utah,JOHNSON,LINDA,V,linda.johnson_9335@example.com,143-763-8111
+9117421,052,Missouri,Dartmouth College,LOPEZ,THOMAS,N,thomas.lopez_5456@example.com,581-571-6886
+3282714,312,Nevada,Harvard University,LOPEZ,JENNIFER,J,jennifer.lopez_6530@example.com,800-658-3466
+2177039,800,North Carolina,Boise State University,LOPEZ,SUSAN,I,susan.lopez_2439@example.com,715-367-5013
+1569069,658,Kansas,University of Colorado Boulder,JONES,THOMAS,F,thomas.jones_7119@example.com,451-548-1115
+8057861,672,Virginia,Stanford University,ANDERSON,SUSAN,Y,susan.anderson_8818@example.com,241-327-3326
+4218754,575,Kentucky,University of Washington,DAVIS,KAREN,N,karen.davis_9194@example.com,944-916-1435
+9249477,416,Wyoming,University of Florida,JONES,MICHAEL,W,michael.jones_3945@example.com,595-872-5387
+5762383,674,Georgia,Texas A&M University,MILLER,JAMES,T,james.miller_1291@example.com,555-196-1918
+1122383,568,Pennsylvania,University of Iowa,SMITH,KAREN,Y,karen.smith_8126@example.com,334-635-5667
+3207648,599,Hawaii,University of Maryland,GARCIA,SUSAN,S,susan.garcia_6267@example.com,757-526-4239
+2679634,617,Texas,University of Alaska,WILLIAMS,SUSAN,Y,susan.williams_4318@example.com,206-438-7454
+7677177,806,South Dakota,Dartmouth College,THOMAS,MICHAEL,P,michael.thomas_4202@example.com,707-612-5454
+4227908,397,Connecticut,Mississippi State University,GONZALEZ,MARY,D,mary.gonzalez_1696@example.com,502-795-2874
+6559032,780,Indiana,University of Wyoming,RODRIGUEZ,JOHN,E,john.rodriguez_1182@example.com,273-507-2261
+1368880,714,Virginia,University of New Mexico,SMITH,SUSAN,X,susan.smith_6358@example.com,326-201-4686
+0838829,300,South Dakota,Columbia University,TAYLOR,JOSEPH,G,joseph.taylor_8673@example.com,560-227-2928
+4961020,247,Nebraska,Carnegie Mellon University,MOORE,ROBERT,R,robert.moore_1366@example.com,797-719-6972
+9647756,570,New Hampshire,University of Kansas,THOMAS,MICHAEL,A,michael.thomas_8213@example.com,919-619-2407
+6624664,319,Montana,Oklahoma State University,WILLIAMS,JOSEPH,A,joseph.williams_1844@example.com,907-903-8927
+9392046,288,Alaska,University of Mississippi,LOPEZ,SARAH,S,sarah.lopez_4214@example.com,264-499-3409
+7647508,603,New Mexico,University of Wisconsin-Madison,THOMAS,THOMAS,B,thomas.thomas_2025@example.com,916-342-5541
+3132826,828,Wyoming,University of Maine,GARCIA,BARBARA,W,barbara.garcia_4453@example.com,310-447-6901
+4577079,864,Utah,New York University,JACKSON,ELIZABETH,Y,elizabeth.jackson_2875@example.com,427-244-7049
+8654668,905,Indiana,University of Arizona,JACKSON,RICHARD,L,richard.jackson_8501@example.com,264-829-1818
+7905766,855,Michigan,University of Florida,MILLER,BARBARA,F,barbara.miller_7116@example.com,229-737-8916
+2348230,126,Maine,University of Wyoming,TAYLOR,ELIZABETH,O,elizabeth.taylor_2798@example.com,272-309-9646
+7482950,355,Tennessee,Indiana University,JACKSON,SARAH,X,sarah.jackson_4747@example.com,704-737-3691
+0376303,889,California,Arizona State University,LOPEZ,JESSICA,Y,jessica.lopez_5092@example.com,200-159-9103
+3624856,229,Mississippi,University of Utah,HERNANDEZ,JENNIFER,A,jennifer.hernandez_4521@example.com,267-415-7589
+5957154,452,Michigan,Montana State University,MOORE,MARY,E,mary.moore_3944@example.com,457-184-9012
+1958717,526,Oklahoma,Pennsylvania State University,SMITH,JOHN,B,john.smith_9458@example.com,389-452-8184
+0867722,034,Hawaii,Clemson University,SMITH,JOSEPH,O,joseph.smith_1121@example.com,696-868-2313
+3526035,575,North Carolina,Rutgers University,JOHNSON,DAVID,H,david.johnson_3709@example.com,630-738-2655
+0291845,110,Wisconsin,Boise State University,JONES,ROBERT,X,robert.jones_5460@example.com,147-872-7380
+2110831,479,Montana,Rutgers University,BROWN,THOMAS,V,thomas.brown_4680@example.com,150-560-2240
+3126349,825,New York,Cornell University,DAVIS,MICHAEL,M,michael.davis_8580@example.com,566-610-1778
+3722666,668,New Mexico,Texas A&M University,DAVIS,DAVID,R,david.davis_1372@example.com,794-181-6764
+3464355,773,Nebraska,University of South Carolina,MARTIN,JOSEPH,K,joseph.martin_7085@example.com,902-367-4723
+9635661,642,Massachusetts,"University of California, Berkeley",JACKSON,ELIZABETH,A,elizabeth.jackson_5191@example.com,220-514-2533
+4902215,600,Kansas,"University of California, Berkeley",JONES,RICHARD,F,richard.jones_4307@example.com,972-470-6833
+3170642,783,Maryland,Carnegie Mellon University,WILLIAMS,WILLIAM,H,william.williams_7681@example.com,891-264-3178
+5443051,465,Vermont,University of Florida,LOPEZ,MARY,U,mary.lopez_7133@example.com,263-589-4883
+4174031,936,Arkansas,University of Oklahoma,LOPEZ,JOHN,C,john.lopez_5124@example.com,586-642-8907
+7710412,305,Alaska,University of Missouri,DAVIS,DAVID,R,david.davis_7740@example.com,232-364-2548
+6694017,834,Arkansas,Harvard University,JOHNSON,RICHARD,C,richard.johnson_9374@example.com,512-862-6978
+0808543,519,New Mexico,South Dakota State University,MARTIN,JENNIFER,J,jennifer.martin_7831@example.com,278-185-5846
+5364426,685,Vermont,South Dakota State University,SMITH,JOSEPH,A,joseph.smith_1505@example.com,750-193-5865
+2774628,172,New Mexico,Cornell University,GONZALEZ,BARBARA,M,barbara.gonzalez_8330@example.com,720-289-2046
+3882704,142,Wisconsin,University of Alabama,JOHNSON,KAREN,E,karen.johnson_8597@example.com,668-196-2596
+8952627,056,West Virginia,University of New Mexico,ANDERSON,MARY,U,mary.anderson_1479@example.com,109-186-7227
+4896113,481,Idaho,West Virginia University,WILSON,BARBARA,M,barbara.wilson_8293@example.com,155-189-6528
+8368691,550,Utah,Ohio State University,HERNANDEZ,CHARLES,X,charles.hernandez_3081@example.com,737-974-4873
+1991466,659,Colorado,Oklahoma State University,ANDERSON,MARY,X,mary.anderson_3265@example.com,635-527-6721
+2951501,306,Maine,Virginia Tech,HERNANDEZ,KAREN,Y,karen.hernandez_6312@example.com,900-274-7697
+9956239,355,California,Purdue University,WILSON,ROBERT,Z,robert.wilson_6172@example.com,192-827-5140
+9725779,858,Nevada,Johns Hopkins University,MARTINEZ,JOHN,O,john.martinez_1566@example.com,290-152-1000
+4795198,625,North Dakota,Arizona State University,DAVIS,SARAH,G,sarah.davis_4104@example.com,351-679-9877
+5581697,237,Wisconsin,"University of California, Berkeley",HERNANDEZ,JAMES,B,james.hernandez_4578@example.com,585-471-2795
+5993669,605,Michigan,Iowa State University,THOMAS,SARAH,V,sarah.thomas_6287@example.com,636-664-8541
+3615657,110,Idaho,Dartmouth College,MARTINEZ,ROBERT,Z,robert.martinez_4407@example.com,931-641-2078
+8365386,443,Iowa,University of North Carolina at Chapel Hill,ANDERSON,MICHAEL,M,michael.anderson_1498@example.com,568-580-3454
+2717740,896,Virginia,Brown University,RODRIGUEZ,MARY,V,mary.rodriguez_7468@example.com,763-749-9280
+7601849,673,Minnesota,Harvard University,GARCIA,MICHAEL,R,michael.garcia_2090@example.com,665-323-4084
+8020706,545,New Mexico,Georgia Institute of Technology,JACKSON,JAMES,H,james.jackson_2482@example.com,733-288-4509
+3460043,076,Oregon,University of Idaho,MILLER,BARBARA,F,barbara.miller_5889@example.com,811-437-1222
+4818714,407,Nebraska,North Dakota State University,MARTIN,SARAH,E,sarah.martin_1351@example.com,367-258-2210
+1426371,621,Tennessee,University of Kansas,WILLIAMS,JAMES,L,james.williams_2812@example.com,391-731-9459
+5951295,024,North Dakota,University of Southern California,BROWN,JESSICA,W,jessica.brown_7317@example.com,124-217-8299
+2983506,536,Nevada,Oklahoma State University,THOMAS,JOHN,O,john.thomas_2212@example.com,729-833-1126
+1973599,149,South Dakota,University of Mississippi,GONZALEZ,LINDA,X,linda.gonzalez_1332@example.com,921-845-7546
+4558403,614,Delaware,Colorado State University,SMITH,ELIZABETH,W,elizabeth.smith_6071@example.com,171-813-5087
+3529609,074,Virginia,Harvard University,HERNANDEZ,JAMES,Q,james.hernandez_2518@example.com,546-384-2451
+2303743,379,Mississippi,Colorado State University,JACKSON,DAVID,S,david.jackson_2224@example.com,453-515-7729
+8877508,539,Colorado,University of Georgia,MOORE,MICHAEL,U,michael.moore_8457@example.com,968-277-8947
+4187352,457,South Dakota,Kansas State University,THOMAS,BARBARA,H,barbara.thomas_2660@example.com,908-718-4697
+2056559,156,Utah,Montana State University,RODRIGUEZ,MARY,E,mary.rodriguez_1744@example.com,730-221-8274
+1461149,838,Oregon,University of Vermont,GARCIA,PATRICIA,F,patricia.garcia_7229@example.com,449-605-8273
+7465908,747,Maryland,Georgia Institute of Technology,GARCIA,SARAH,Y,sarah.garcia_9210@example.com,395-125-3403
+6781030,309,New Jersey,University of South Carolina,GARCIA,JOSEPH,H,joseph.garcia_2569@example.com,791-111-3895
+3161070,073,Georgia,Kansas State University,RODRIGUEZ,JOHN,M,john.rodriguez_4886@example.com,683-886-3231
+5917351,776,Ohio,University of Iowa,JONES,WILLIAM,C,william.jones_2585@example.com,338-114-2633
+7476828,651,Minnesota,Indiana University,SMITH,CHARLES,H,charles.smith_3540@example.com,164-786-6266
+7770487,488,Vermont,University of Idaho,BROWN,BARBARA,X,barbara.brown_4326@example.com,297-204-4843
+4999495,402,North Carolina,University of South Carolina,THOMAS,JOHN,L,john.thomas_4868@example.com,244-853-3489
+5665103,171,Nevada,University of Connecticut,WILSON,LINDA,N,linda.wilson_7965@example.com,351-257-2966
+0616797,684,Nevada,University of North Carolina at Chapel Hill,WILLIAMS,KAREN,K,karen.williams_6398@example.com,105-392-6463
+8191480,218,North Carolina,University of Alaska,DAVIS,LINDA,K,linda.davis_3680@example.com,188-270-1162
+4639537,890,Alabama,University of Idaho,GARCIA,MICHAEL,P,michael.garcia_2095@example.com,807-884-8474
+0018497,339,Nevada,Texas A&M University,GONZALEZ,MICHAEL,B,michael.gonzalez_1942@example.com,866-304-4349
+4091915,786,Wyoming,Colorado State University,TAYLOR,JENNIFER,Z,jennifer.taylor_3088@example.com,153-599-7252
+6047033,049,Virginia,Duke University,MARTIN,JOSEPH,C,joseph.martin_3440@example.com,459-662-2175
+9954162,654,Nebraska,North Dakota State University,LOPEZ,SUSAN,Q,susan.lopez_6125@example.com,202-295-5718
+2601210,199,Texas,Colorado State University,LOPEZ,BARBARA,C,barbara.lopez_5871@example.com,336-358-4522
+0576750,729,Nebraska,University of Missouri,MARTIN,PATRICIA,S,patricia.martin_3214@example.com,925-831-5529
+7821642,312,Michigan,University of Delaware,JONES,JAMES,L,james.jones_4633@example.com,704-810-8881
+3534429,014,South Dakota,Cornell University,MARTIN,MARY,I,mary.martin_2969@example.com,282-990-9123
+5559161,508,Oregon,University of Oklahoma,MOORE,MARY,D,mary.moore_4451@example.com,649-749-6127
+9357178,533,New Hampshire,University of Missouri,MARTIN,RICHARD,A,richard.martin_3489@example.com,184-920-4696
+4199958,814,Arizona,University of Missouri,DAVIS,RICHARD,B,richard.davis_2023@example.com,899-930-9628
+4631035,385,Idaho,University of Delaware,SMITH,ELIZABETH,Y,elizabeth.smith_3005@example.com,648-662-9522
+5836066,075,Iowa,Virginia Tech,JOHNSON,PATRICIA,D,patricia.johnson_9452@example.com,718-920-7418
